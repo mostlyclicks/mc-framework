@@ -5,7 +5,11 @@ import styled from 'styled-components'
 const Footer = () => {
   return (
     <Div>
-      This is the footer
+      <p>This is the footer</p>
+      //Sublinks
+      //Social
+      //Address
+      //Copyright
     </Div>
   )
 }
