@@ -19,13 +19,9 @@ const Div = styled.div`
   align-content:center;
   flex-wrap:wrap;
   
-  
-  
  div {
     flex:1 1 33%;
-    // outline:1px solid red;
-    
-    
+    // outline:1px solid red;  
   }
 
   img {
@@ -36,7 +32,6 @@ const Div = styled.div`
   div:nth-child(1) {
     flex:1 1 100%;
     text-align:center;
-    
   }
 
   div:nth-child(2) {
@@ -52,7 +47,6 @@ const Div = styled.div`
     div:nth-child(1) {
       flex:1 1 30%;
       align-self:center;
-      
     }
 
     div:nth-child(2) {
